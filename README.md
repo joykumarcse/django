@@ -12,8 +12,9 @@ Project structure:
 
 ```
 Let's up docker compose:
-`$ docker compose up -d`
-
+```
+$ docker compose up -d
+```
 Check container
 ```
 docker ps
